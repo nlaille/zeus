@@ -1,19 +1,11 @@
-0) Requirements
+0) Project
 ----------------------
 
-##### Install NodeJS
-##### Install NPM
+Zeus Project
 
-1) Installation
+1) Branch
 ----------------------
 
-##### Install dependencies
+#### Rest API (rest-node)
 
-	$zeus> sudo npm install
-
-2) Start application
-----------------------
-
-##### Start
-
-	$zeus> DEBUG=zeus ./bin/wwww
+A NodeJS Restfull API
